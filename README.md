@@ -12,8 +12,7 @@ Dự án này tập trung xây dựng và triển khai một mô hình phòng th
 
 Hệ thống được thiết kế nhằm tách biệt hoàn toàn mạng nội bộ và mạng Honeypot để hạn chế nguy cơ lan truyền tấn công, trong khi vẫn cho phép mở có kiểm soát một số dịch vụ để thu thập dữ liệu tấn công.
 
-**🏗️ Kiến trúc hệ thống
-**
+**🏗️ Kiến trúc hệ thống**
 
 
 pfSense: Quản lý tường lửa và phân đoạn mạng
