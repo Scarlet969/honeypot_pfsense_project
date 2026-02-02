@@ -1,0 +1,4 @@
+## T-Pot Installation
+- OS: Ubuntu Server 20.04
+- Install method: ISO
+- Enabled honeypots: Cowrie, Dionaea, etc.
